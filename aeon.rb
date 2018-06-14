@@ -5,7 +5,7 @@ class Aeon < Formula
   desc "AEON: the secure, private, untraceable cryptocurrency"
   homepage "http:/aeon.cash"
 
-  url "https://github.com/aeonix/aeon.git", :tag => "v0.12.0.0", :revision => "e3a5694848931e21f26f0c9d9097fbd96314f35f"
+  url "https://github.com/aeonix/aeon.git", :tag => "v0.12.1.0", :revision => "b8853a4bd934f8b1b99ff7fac2c118340d333da7"
 
   depends_on "cmake" => :build
   depends_on "pkgconfig" => :build
